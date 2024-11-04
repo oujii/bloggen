@@ -50,7 +50,7 @@ export default function Home() {
                 transition={{ duration: 0.5 }}
                 className="text-5xl sm:text-6xl md:text-7xl font-extrabold tracking-tight text-gray-900"
               >
-                <span className="block">Turn Your GitHub Repo</span>
+                <span className="block">Turn Your GitHub Repo xXXX</span>
                 <span className="block text-blue-600">Into a Beautiful Blog</span>
               </motion.h1>
               <motion.p 
